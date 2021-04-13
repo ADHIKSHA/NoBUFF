@@ -5,6 +5,10 @@ Videos fetched are of high quality and each of 2 minute duration. The buffering 
 
 This could be a Video streaming facility like YouTube.
 
+## Demo
+<img src ="https://user-images.githubusercontent.com/29985870/114535173-67b1b580-9c6d-11eb-97d4-908725acc784.png" width ="650" height="380">
+<img src ="https://user-images.githubusercontent.com/29985870/114535185-6bddd300-9c6d-11eb-9cf1-a86889fd69bc.png" width ="650" height="380">
+
 
 ## Usage 
 ```
@@ -24,5 +28,4 @@ This could be a Video streaming facility like YouTube.
 4. Enable Storage and write Test mode rules
 5. Fetch videos
 
-## Demo
 
